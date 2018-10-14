@@ -1,8 +1,15 @@
 This is a training of python crawler
 
-to climb countries and cities data and save in csv
+climb countries of cities data in the world 
 
-just run python instruction
+#save in csv 
+run
+```bash
+python3 climb_csv.py
+```
+
+#save in mysql
+run
 ```bash
 python3 climb.py
 ```
